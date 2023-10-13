@@ -20,4 +20,4 @@ device_name = "Arduino"
 # pathway to dataset
 dataset = "dataset.csv"
 
-client_id = "d66ba13f375a46879267cb812a06724f"
+client_id = # your client id here!
