@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 ```
 # Run:
 - Get a spotify API key
-- Edit config.py to fit your needs
+- Edit config.py and add your spotify client token
 - Upload arduino script to arduino
 - Run main.py
 - Follow instructions to connect your spotify account
