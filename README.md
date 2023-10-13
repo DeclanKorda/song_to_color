@@ -12,6 +12,8 @@ conda create --name test-env
 conda activate test-env
 # Clone repo
 git clone https://github.com/DeclanKorda/song_to_color
+# CD to project folder
+cd song_to_color
 # Install required python dependencies
 pip3 install -r requirements.txt
 ```
